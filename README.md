@@ -78,9 +78,3 @@ Our system ensures secure access, lead prioritization, real-time tracking, and a
 - Core banking system integration.  
 - Offline-first support for mobile app.  
 
----
-
-## 👥 Team
-- Hackathon Project – SDG
-- Built with ❤️ for TSEC Codeissance Hackathon  
-
