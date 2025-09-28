@@ -81,6 +81,6 @@ Our system ensures secure access, lead prioritization, real-time tracking, and a
 ---
 
 ## 👥 Team
-- Hackathon Project – [Your Team Name]  
+- Hackathon Project – SDG
 - Built with ❤️ for TSEC Codeissance Hackathon  
 
